@@ -26,3 +26,7 @@ check*.png, radio*.png, guioverlay.png, guiexit.png
     Created by Maxim "acerspyro" Therrien
     Copyright (C) 2014 Red Eclipse Team
     Creative Commons Attribution ShareAlike 3.0 License (CC-BY-SA)
+
+icons/fontawesome/*
+	Created by Fabian "MoonPadUSer" Bebber, derived from Font-Awesome (https://github.com/FortAwesome/Font-Awesome)
+	More information in icons/fontawesome/readme.txt 
