@@ -7,6 +7,11 @@ In the absence of an explicit license, content is considered to be covered by
     Creative Commons Attribution ShareAlike 3.0 License (CC-BY-SA)
     http://creativecommons.org/licenses/by-sa/3.0/
 
+background.jpg
+    Created by @alexlanting, resized to 1920x1080 (1080p)
+    Licensed under the terms of the Unsplash license (https://unsplash.com/license, public-domain-like)
+    Originally found on https://unsplash.com/photos/fxrwJGMCz_g (last visited May 29, 2020)
+
 lava.jpg
     Created by RaZgRiZ Made with Filter Forge II Beta 3
     Licensed publicly for everyone to use, modify and distribute as long as the author is credited for the original work.
